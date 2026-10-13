@@ -1,0 +1,15 @@
+# Local oxDNA source and build files
+.oxdna/
+
+# Simulation outputs
+outputs/
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
